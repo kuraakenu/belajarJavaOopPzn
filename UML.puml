@@ -1,0 +1,10 @@
+@startuml
+annotation java.lang.Override
+class belajarjava2.Employee
+class belajarjava2.Main2
+class belajarjava2.Manager
+class belajarjava2.VicePresident
+belajarjava2.Manager --|> belajarjava2.Employee
+belajarjava2.VicePresident ..> java.lang.Override
+belajarjava2.VicePresident --|> belajarjava2.Manager
+@enduml
