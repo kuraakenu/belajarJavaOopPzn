@@ -14,6 +14,7 @@ public class ProductApp {
         Product produk = new Product("Mac Book Pro", 30000000);
         System.out.println(produk.name);
         System.out.println(produk.price);
+        System.out.println(produk.toString());
         
         System.out.println(produk);
         

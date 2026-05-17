@@ -13,5 +13,7 @@ public class Application {
     public static void main(String[] args) {
         Product produk = new Product("Mac Book Pro", 30000000);
         System.out.println(produk.name); // error karna protected bisa akses 1 package
+        
+        
     }
 }
