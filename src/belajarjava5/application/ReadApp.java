@@ -49,7 +49,7 @@ public class ReadApp {
 
         //auto 
         
-        try(BufferedReader reader = new BufferedReader(new FileReader("C:\\Users\\mzida\\OneDrive\\Dokumen\\codeLearning\\123240082\\BelajarJava1\\src\\README.md"))){
+        try(BufferedReader reader = new BufferedReader(new FileReader("README.md"))){
             while(true){
                 String line = reader.readLine();
                 if(line == null){
