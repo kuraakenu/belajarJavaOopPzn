@@ -1,2 +1,5 @@
+# Belajar Java Dasar
 
-asdaf
+ini adalah project belajar java dasar di Channel :
+
+Programmer Zaman Now
